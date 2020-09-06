@@ -1,6 +1,9 @@
 # bot_discord-js:
 
   A Discord Bot with two commands: **slap** and **ping**
+  
+  ![Ping](https://imgur.com/RCtchC8)
+  ![Slap](https://imgur.com/EbSOnjM)
 
 # How to install ?:
   ```
