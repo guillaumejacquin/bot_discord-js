@@ -1,4 +1,6 @@
-# bot_discord-js
+# bot_discord-js:
+
+  A Discord Bot with two commands: **slap** and **ping**
 
 # How to install ?:
   ```
@@ -7,6 +9,16 @@
   ```
   
 # How to run ?
+  You have to set your Bot's Token into the env with  
+  ```
+  export TOKEN="token"  
+  ```
+  Then you have to:
   ```
   npm start
   ```
+ 
+ # Commandes:
+ 
+ - slap: To get a random slap gif
+ - ping: To get the ping
