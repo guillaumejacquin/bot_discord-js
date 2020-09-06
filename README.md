@@ -2,8 +2,8 @@
 
   A Discord Bot with two commands: **slap** and **ping**
   
-  ![Ping](https://imgur.com/RCtchC8)
-  ![Slap](https://imgur.com/EbSOnjM)
+  ![img](https://i.imgur.com/RCtchC8.png)
+  ![Slap](https://i.imgur.com/EbSOnjM.png)
 
 # How to install ?:
   ```
