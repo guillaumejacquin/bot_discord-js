@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const bot = new Discord.Client()
 const GphApiClient = require("giphy-js-sdk-core");
 const giphy = GphApiClient("fFgr63OWgA5JJnG7Xd7dd0TowZrpcykQ");
-const token = process.env.TOKENJS;
+const token = process.env.TOKEN;
 
 bot.on('ready', function () {
     console.log("Je suis connecté !")
