@@ -2,6 +2,7 @@ const Discord = require('discord.js')
 const bot = new Discord.Client()
 const GphApiClient = require("giphy-js-sdk-core");
 const giphy = GphApiClient("fFgr63OWgA5JJnG7Xd7dd0TowZrpcykQ");
+const token = process.env.TOKENJS;
 
 bot.on('ready', function () {
     console.log("Je suis connecté !")
@@ -32,4 +33,5 @@ bot.on('message', message => {
         });
     }
 })
-bot.login("NzUyMDgwMDEyNzk0MDAzNTI5.X1SbGA.ABgJnR8F5ql5X_swC00tRtiFb9s")
+
+bot.login(token)

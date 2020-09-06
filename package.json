@@ -1,0 +1,25 @@
+{
+  "name": "pepouzejs",
+  "version": "1.0.0",
+  "description": "A Discord Bot with a ping and a random slap",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "giphy-js-sdk-core": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumejacquin/bot_discord-js.git"
+  },
+  "author": "Sobihan Mahendran and Guillaume Jacquin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumejacquin/bot_discord-js/issues"
+  },
+  "homepage": "https://github.com/guillaumejacquin/bot_discord-js#readme"
+}
