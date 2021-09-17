@@ -19,7 +19,7 @@ bot.on('message', message => {
                 )
             })
             .catch((err) => {
-
+                message.channel.send("Error...");
             })
     }
     if(message.content === 'ping') {
